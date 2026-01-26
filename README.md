@@ -1,0 +1,2 @@
+# Emperatriz-SecondHand
+Proyecto SQL
